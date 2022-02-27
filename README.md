@@ -25,7 +25,7 @@
 
 ### MIT License
 
-© Copyright 2021 [Ibrahim Cesar](https://ibrahimcesar.cloud)
+© Copyright 2022 [Ibrahim Cesar](https://ibrahimcesar.cloud)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
